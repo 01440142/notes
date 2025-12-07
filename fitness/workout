@@ -1,0 +1,21 @@
+push
+3x6 mcp
+3x8 mcf
+3x6 msp
+3x8 mlr
+3x8 mot
+3x8 olr
+
+pull
+3x6 msr/mpo
+3x8 mac
+3x8 mlp
+3x8 mbe
+3x8 rfp
+3x- wrr
+
+legs
+3x8 mle
+3x8 mlc
+3x8 msc
+3x8 lnc
